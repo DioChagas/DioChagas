@@ -6,7 +6,7 @@
 <br>
 My name is Diógenes and I am a Software QA 👨‍💻
 
-🇧🇷 I'm from Brazil <br>
+:earth_americas: I'm from Brazil <br>
 📚 Eternal student <br>
 🚀 Entrepreneur <br>
 ☕ and 🍫 lover 😋<br>
