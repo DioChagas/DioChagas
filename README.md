@@ -15,7 +15,7 @@ I'm from Brazil
 🙋‍♂ I like to meet new people and share experiences with them.
 
 + 😄 Pronouns: He/Him/His
-+ 🌱 I’m currently learning about RobotFramework, Selenium WebDriver and Java
++ 🌱 I’m currently learning about: ```RobotFramework, Selenium WebDriver and Java```
 + 🔗 Here are some of my links:
 	+ [QualyTest](https://www.instagram.com/qualytest/)
 	+ [LinkedIn](https://www.linkedin.com/in/diogeneschagas/)
