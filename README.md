@@ -8,9 +8,9 @@ My name is Diógenes and I am a Software QA 👨‍💻
 
 I'm from Brazil
 
-📚 Eternal student
-🚀 Entrepreneur 
-☕ and 🍫 lover 😋
+📚 Eternal student <br>
+🚀 Entrepreneur <br>
+☕ and 🍫 lover 😋<br>
 
 🙋‍♂ I like to meet new people and share experiences with them.
 
