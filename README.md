@@ -8,7 +8,7 @@
 **DioChagas/DioChagas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <span style="font-family:Consolas; font-size:12pt;">
 <br>
-My name is Diógenes and I am a Software QA 👨‍💻
+I'm Diógenes Chagas, I'm a Software QA 👨‍💻
 
 :earth_americas: I'm from Brazil <br>
 📚 Eternal student <br>
