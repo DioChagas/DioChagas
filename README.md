@@ -18,7 +18,7 @@ Me chamo Diógenes Chagas, um cara apaixonado pela Qualidade de Software. 👨�
 🙋‍♂ Gosto de conhecer pessoas e compartilhar experiências com elas.
 <!--
 + 😄 Pronouns: He/Him/His -->
-+ 🌱 Atualmente estou estudando sobre: ```RobotFramework, Selenium WebDriver e Java```
++ 🌱 Atualmente estou estudando sobre: ```RobotFramework, Testes unitários em Java```
 + 🔗 Links externos:
 	+ [QualyTest](https://www.instagram.com/qualytest/)
 	+ [Artigo - Não trate como robô quem cuida da qualidade com amor](https://medium.com/revista-tspi/n%C3%A3o-trate-como-rob%C3%B4-quem-cuida-da-qualidade-com-amor-691cceabd22)
