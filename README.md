@@ -18,6 +18,7 @@ Me chamo Diógenes Chagas, um cara apaixonado pela Qualidade de Software. 👨�
 🙋‍♂ Gosto de conhecer pessoas e compartilhar experiências com elas.
 <!--
 + 😄 Pronouns: He/Him/His -->
++ 👨‍💻 know-how: Técnicas de testes de software, melhoria de processos e lógica de programação.
 + 🌱 Atualmente estou estudando sobre: ```RobotFramework, Java e Angular```
 + 🔗 Links externos:
 	+ [QualyTest](https://www.instagram.com/qualytest/)
