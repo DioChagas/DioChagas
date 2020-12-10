@@ -19,8 +19,8 @@ Me chamo Diógenes Chagas, um cara apaixonado pela Qualidade de Software. 👨�
 <!--
 + 😄 Pronouns: He/Him/His -->
 + 👨‍💻 know-how: ```Técnicas de testes de software, melhoria de processos e lógica de programação.```
-+ 🛠  Ferramentas: ```RobotFramework``` 
-+ 🌱 Atualmente estou estudando sobre: ```Java, Angular e a técnica TDD```
++ 🛠  Ferramentas: ```RobotFramework, Selenium Webdriver``` 
++ 🌱 Atualmente estou estudando sobre: ```Java, técnicas TDD & BDD```
 + 🔗 Links externos:
 	+ [Artigo na Revista TSPI - Não trate como robô quem cuida da qualidade com amor](https://medium.com/revista-tspi/n%C3%A3o-trate-como-rob%C3%B4-quem-cuida-da-qualidade-com-amor-691cceabd22)
 	+ [Palestra no TSPI Conference 2020 - "Não trate como robô quem cuida da qualidade com amor"](https://youtu.be/vybPVh29N-0?t=2168)
