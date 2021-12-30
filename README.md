@@ -8,7 +8,7 @@
 **DioChagas/DioChagas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <span style="font-family:Consolas; font-size:12pt;">
 <br>
-Me chamo Diógenes Chagas, um cara apaixonado pela Qualidade de Software. 👨‍💻
+Me chamo Diógenes Chagas, um cara apaixonado pela Qualidade de Software e Análise de dados. 👨‍💻
 
 :earth_americas: Brasileiro. Pernambucano de nascença, mas paraibano de ❤ <br>
 📚 Eterno aprendiz <br>
@@ -18,13 +18,13 @@ Me chamo Diógenes Chagas, um cara apaixonado pela Qualidade de Software. 👨�
 🙋‍♂ Gosto de conhecer pessoas e compartilhar experiências com elas.
 <!--
 + 😄 Pronouns: He/Him/His -->
-+ 👨‍💻 know-how: ```Técnicas de testes de software, melhoria de processos e lógica de programação.```
-+ 🛠  Ferramentas: ```RobotFramework, Selenium Webdriver``` 
-+ 🌱 Atualmente estou estudando sobre: ```Java, técnicas TDD & BDD, API's REST (Arquitetura e segurança) e Micro services```
++ 👨‍💻 know-how: ```Técnicas de testes de software, melhoria de processos, técnicas TDD & BDD, lógica de programação e Testes de API, análise de dados & identificação de padrões.```
++ 🛠  Ferramentas: ```RobotFramework, Selenium Webdriver, Power BI, Excel e Python``` 
++ 🌱 Atualmente estou estudando sobre: ```Análise de dados, Power BI, SQL, Python (voltado para análise de dados)```
 + 🔗 Links externos:
 	+ [Artigo na Revista TSPI - Não trate como robô quem cuida da qualidade com amor](https://medium.com/revista-tspi/n%C3%A3o-trate-como-rob%C3%B4-quem-cuida-da-qualidade-com-amor-691cceabd22)
 	+ [Palestra no TSPI Conference 2020 - "Não trate como robô quem cuida da qualidade com amor"](https://youtu.be/vybPVh29N-0?t=2168)
-	+ [QualyTest](https://www.instagram.com/qualytest/)
+	+ [Blog do Medium](https://medium.com/@diogeneschagas)
 
 
 
