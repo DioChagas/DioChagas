@@ -25,6 +25,7 @@ Me chamo Diógenes Chagas, um cara apaixonado pela Qualidade de Software e Anál
 	+ [Artigo na Revista TSPI - Não trate como robô quem cuida da qualidade com amor](https://medium.com/revista-tspi/n%C3%A3o-trate-como-rob%C3%B4-quem-cuida-da-qualidade-com-amor-691cceabd22)
 	+ [Palestra no TSPI Conference 2020 - "Não trate como robô quem cuida da qualidade com amor"](https://youtu.be/vybPVh29N-0?t=2168)
 	+ [Blog do Medium](https://medium.com/@diogeneschagas)
+	+ [Canal da Pingback](https://pingback.com/diogeneschagas)
 
 
 
